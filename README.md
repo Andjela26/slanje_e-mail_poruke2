@@ -1,0 +1,1 @@
+Program iz zadatka pod nazivom slanje_e-mail_poruke modifikovati tako da se e-mail poruka ne šalje nakon startovanja/reseta već svakim pritskom na taster, kao i po isteku unapred definisanog vremena (npr. na svaki sat) nakon poslednje poslate e-mail poruke.
